@@ -1,0 +1,16 @@
+@import "resets/normalize";
+// @import "resets/resetlocal";
+@import "resets/typography";
+
+.container {
+    position: relative;
+  width: 700px;
+  height: auto;
+  border: 2px dotted grey;
+  margin: 30px auto;
+  padding: 30px;
+}
+
+span {
+    display: none;
+}
